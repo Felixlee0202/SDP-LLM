@@ -1,0 +1,6 @@
+pip install -U \
+torch \
+transformers \
+sentence-transformers \
+faiss-cpu \
+pypdf
